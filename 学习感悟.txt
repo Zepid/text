@@ -1,0 +1,21 @@
+学习心得：
+
+Github账户地址：https://github.com/Zepid
+
+1.作业总结：
+       安装配置Java环境，中途遇到了一些问题，例如镜像要选择中国，或者路径要编辑添加这些，然后通过看学习通上的视频和百度解决了这些问题。之后先用记事本编写第一个Java程序Hello World并把拓展名改为.java。
+
+2.代码托管：
+public class p2 {
+
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+
+	}
+
+}
+代码编写完成后，根据学习通上的知识，先注册Github账号，之后顺利参照学习通上网课讲解的流程，利用Git Bash上传至Github。
+
+3.拓展及总结：
+       之后通过一些方面，了解到Eclipse相较于记事本编辑，更加直观简单，于是下载Eclipse，并再次编写Hello World。于是，通过百度搜索到从Eclipse上传至Github的步骤并学习，并搜索到删除一个库（Repository）的方法。先把记事本编辑的第一个Java程序所在的库删除，然后通过百度流程，上传Eclipse上第一个Java程序至Github。
+       这次作业给了很大的自由发挥的空间，我们的小组也同样很积极，相互交流了下载Java的环境，并交流有关Java的知识。但是也产生了更多的疑惑，例如类与类之间的协同关系，关键字的种类和原理，大小写问题等。这些都是Java学习路上需要攻克的问题。希望自己的Java学习越来越好。
